@@ -34,7 +34,7 @@ Master-Master (Мастер-мастер) //оба сервера одновре
 //
 ![alt text](image-2.png)
 ![alt text](image-1.png)
-Запустить скрипт [мастера](setup_master.sh), он покажет текущий статус, скопировать File и Position.
-В скрипте [слэйва](setup_slave.sh) вставить значения (File и Position) и запустить его.
+Запустить скрипт [setup_master.sh](setup_master.sh), он покажет текущий статус, скопировать File и Position.
+В скрипте [setup_slave.sh](setup_slave.sh) вставить значения (File и Position) и запустить его.
 
 
